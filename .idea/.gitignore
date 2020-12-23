@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Administrator\Desktop\[TutsNode.com] - Build Reports with JasperReports, Java and Spring Boot\09 Jasper Reports with Spring Boot\034 Getting-Report-with-GET-API-using-Spring-Boot\Getting-Report-with-GET-API-using-Spring-Boot\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
